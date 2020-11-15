@@ -1,0 +1,5 @@
+flask
+yattag
+beautifulsoup4
+requests
+lxml
